@@ -35,8 +35,8 @@ Tim Berners-Lee worked at CERN through the 80s and 90s, where he dealt primarily
 
 ### Connected Books
 
-* [The Cathedral and the Bazaar](CathedralBazaar.md)
-* [An Essay on Human Understanding](HumanUnderstanding.md)
-* [Free as in Freedom] (FreeAsInFreedom.md)
-* [Free Software, Free Society]
-* [The Second Treatise of Government](SecondTreatise.md)
+* __The Cathedral and the Bazaar__
+* __An Essay on Human Understanding__
+* __Free as in Freedom__
+* __Free Software, Free Society__
+* __The Second Treatise of Government__

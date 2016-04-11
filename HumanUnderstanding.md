@@ -38,10 +38,10 @@ Locke went into writing this book as a response to the theories which existed at
 
 ### Connected Books
 
-* [The Categories](Categories.md)
-* [Code Complete]
-* [Introduction to Algorithms]
-* [Metaphysics]
-* [The Republic]
-* [The Second Treatise of Government]
-* [Weaving the Web](WeavingWeb.md)
+* __The Categories__
+* __Code Complete__
+* __Introduction to Algorithms__
+* __Metaphysics__
+* __The Republic__
+* __The Second Treatise of Government__
+* __Weaving the Web__

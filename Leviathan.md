@@ -35,8 +35,8 @@ Writing in the 1600s, Hobbes' big goal was to understand why humans think the wa
 
 ### Connected Books
 
-* [Code Complete]
-* [Free as in Freedom](FreeAsInFreedom.md)
-* [The Muqaddimah](Muqaddimah.md)
-* [The Prince]
-* [The Second Treatise of Government](SecondTreatise.md)
+* __Code Complete__
+* __Free as in Freedom__
+* __The Muqaddimah__
+* __The Prince__
+* __The Second Treatise of Government__

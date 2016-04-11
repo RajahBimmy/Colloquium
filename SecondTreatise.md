@@ -35,10 +35,10 @@ Locke put together the two treatises in response to Filmer's Patriarcha and Will
 
 ### Connected Books
 
-* [The Cathedral and the Bazaar](CathedralBazaar.md)
-* [An Essay on Human Understanding](HumanUnderstanding.md)
-* [Free as in Freedom](FreeAsInFreedom.md)
-* [Free Software, Free Society]
-* [Leviathan]
-* [The Prince]
-* [Weaving the Web](WeavingWeb.md)
+* __The Cathedral and the Bazaar__
+* __An Essay on Human Understanding__
+* __Free as in Freedom__
+* __Free Software, Free Society__
+* __Leviathan__
+* __The Prince__
+* __Weaving the Web__

@@ -29,7 +29,7 @@ In 2014, Pro Git was published as a way to introduce the git workflow to the uni
 
 ### Connected Books
 
-* [Code Complete]
-* [The Mythical Man-Month]
-* [The Cathedral and the Bazaar](CathedralBazaar.md)
-* [Weaving the Web](WeavingWeb.md)
+* __Code Complete__
+* __The Mythical Man-Month__
+* __The Cathedral and the Bazaar__
+* __Weaving the Web__

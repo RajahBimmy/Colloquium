@@ -35,6 +35,8 @@ Aristotle's Metaphysics is taking Plato's idea of the forms from __The Republic_
 
 ### Connected Books
 
-* [The Categories](Categories.md)
-* [Leviathan](Leviathan.md)
-* [The Republic]
+* __Code Complete__
+* __Introduction to Algorithms__
+* __The Categories__
+* __Leviathan__
+* __The Republic__

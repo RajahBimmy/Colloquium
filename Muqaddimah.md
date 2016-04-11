@@ -35,12 +35,12 @@ While we don't talk about him much, Ibn Khaldun was totally doing what everyone 
 
 ### Connected Books
 
-* [The Cathedral and the Bazaar]
-* [An Essay on Human Understanding]
-* [Free Software, Free Society]
-* [How to Design Programs]
-* [Introduction to Algorithms]
-* [Leviathan]
-* [The Prince]
-* [The Republic]
-* [The Second Treatise of Government]
+* __The Cathedral and the Bazaar__
+* __An Essay on Human Understanding__
+* __Free Software, Free Society__
+* __How to Design Programs__
+* __Introduction to Algorithms__
+* __Leviathan__
+* __The Prince__
+* __The Republic__
+* __The Second Treatise of Government__

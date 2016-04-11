@@ -4,7 +4,7 @@
 
 ### Relevance
 
-
+Code Complete is the springboard for this Colloquium. McConnell is both an architect and a pragmatist in this work, introducing a mantra of getting the job done in the most efficient way possible, while leaving doors open for easy future collaboration. He's less concerned with the ideals or goals we can shoot for with collaborative projects, and more focused on the nitty-gritty, what can I get done today, for how much, and how fast? He's willing to act like Machiavelli's prince and make Bazaar-like tradeoffs. He gets deep into using abstraction to understand problems, echoing Locke, Aristotle, and HTDP in his explanation of Object-Oriented programming, spawned from Plato's Forms. He goes toe-to-toe with Fred Brooks, claiming that the Mythical Man-Month's approach to software design is too optimistic and assumes we have more resources than a project may allow, but at the same time never contends with Raymond's idea that perhaps more people wouldn't be a bad thing. He focuses on management, much like Sun Tzu in the Art of War, and wants his team to be masters in their fields. 
 
 ### Context
 

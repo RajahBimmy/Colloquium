@@ -35,10 +35,10 @@ A hundred years before Hobbes, Machiavelli already had the right can-do attitude
 
 ### Connected Books
 
-* [The Cathedral and the Bazaar](CathedralBazaar.md)
-* [Code Complete]
-* [How to Design Programs](DesignPrograms.md)
-* [Leviathan](Leviathan.md)
-* [The Muqaddimah](Muqaddimah.md)
-* [The Mythical Man-Month]
-* [The Second Treatise of Government](SecondTreatise.md)
+* __The Cathedral and the Bazaar__
+* __Code Complete__
+* __How to Design Programs__
+* __Leviathan__
+* __The Muqaddimah__
+* __The Mythical Man-Month__
+* __The Second Treatise of Government__
